@@ -1,4 +1,3 @@
 # hello-world
 first repository
-HI there, 
-
+and it's my birthday :D
